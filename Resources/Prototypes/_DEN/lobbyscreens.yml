@@ -2,6 +2,24 @@
 # Please put Den-exclusive lobby screens here.
 
 - type: lobbyBackground
+  id: DenOS
+  background: /Textures/LobbyScreens/denos.webp
+#  name: Den OS
+#  artist: justani
+
+- type: lobbyBackground
+  id: TheSix
+  background: /Textures/LobbyScreens/thesix.webp
+#  name: The Six
+#  artist: wallflowerghost
+
+- type: lobbyBackground
+  id: TheTrip
+  background: /Textures/LobbyScreens/thetrip.webp
+#  name: The Trip
+#  artist: leonardo_dabepis
+
+- type: lobbyBackground
   id: KaasiDoshi
   background: /Textures/LobbyScreens/KAASI_DOSHI.webp
 #  name: CAPTAIN'S BURDEN
