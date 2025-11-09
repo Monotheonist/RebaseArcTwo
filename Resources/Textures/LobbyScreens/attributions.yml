@@ -64,6 +64,11 @@
   copyright: "wallflowerghost on discord" #Den exclusive on request, please abide by the artist's wishes
   source: "https://github.com/wallflowerghost"
 
+- files: ["thetrip.webp"]
+  license: "CC-BY-SA-3.0"
+  copyright: "leonardo_dabepis on discord" #Den
+  source: "https://tapas.io/series/Mesmers"
+
 - files: ["KAASI_DOSHI.webp"]
   license: "CC-BY-SA-4.0"
   copyright: "GooseyTeeth"
