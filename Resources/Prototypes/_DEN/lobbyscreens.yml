@@ -5,13 +5,13 @@
   id: DenOS
   background: /Textures/LobbyScreens/denos.webp
 #  name: Den OS
-#  artist: justani
+#  artist: JustAni
 
 - type: lobbyBackground
   id: TheSix
   background: /Textures/LobbyScreens/thesix.webp
 #  name: The Six
-#  artist: wallflowerghost
+#  artist: WallflowerGhost
 
 - type: lobbyBackground
   id: TheTrip
