@@ -1,5 +1,6 @@
 # Den's Lobby Screens File
 # Please put Den-exclusive lobby screens here.
+# The name / artist sections are a pre-rebase artifact.
 
 - type: lobbyBackground
   id: DenOS
@@ -30,3 +31,39 @@
   background: /Textures/LobbyScreens/NO-RO.webp
   # name: MINIMUM FORCE NECESSARY
   # artist: GooseyTeeth
+
+- type: lobbyBackground
+  id: IanSecured
+  background: /Textures/LobbyScreens/iansecured.webp
+#  name: Ian Secured
+#  artist: TrashyCinder
+
+- type: lobbyBackground
+  id: ImWithTheScienceTeam
+  background: /Textures/LobbyScreens/imwiththescienceteam.webp
+#  name: Im With The Science Team
+#  artist: TKSParadox
+
+- type: lobbyBackground
+  id: AverageEpiShenanigans
+  background: /Textures/LobbyScreens/averageepishenanigans.webp
+#  name: Average Epi Shenanigans
+#  artist: Skweekers
+
+- type: lobbyBackground
+  id: NTMonthlyFashionMagazine
+  background: /Textures/LobbyScreens/ntmonthlyfashionmagazine.webp
+#  name: NT Monthly Fashion Magazine
+#  artist: JustAni
+
+- type: lobbyBackground
+  id: PlushPuddle
+  background: /Textures/LobbyScreens/plushpuddle.webp
+#  name: Plush Puddle
+#  artist: Wolfio
+
+- type: lobbyBackground
+  id: ThatCoolBar
+  background: /Textures/LobbyScreens/thatcoolbar.webp
+#  name: That Cool Bar
+#  artist: WallflowerGhost
